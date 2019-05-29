@@ -189,7 +189,7 @@ parameters:
     account 'admin' will be initialized with the password 'password'.
   displayName: Enable OAuth in Jenkins
   name: ENABLE_OAUTH
-  value: "false"
+  value: "true"
 - description: Whether Jenkins runs with a 32 bit (i386) or 64 bit (x86_64) JVM.
   displayName: Jenkins JVM Architecture
   name: JVM_ARCH
